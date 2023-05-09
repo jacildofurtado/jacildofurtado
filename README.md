@@ -1,9 +1,9 @@
-### Hi there 👋<h1 align="center">Hi 👋, I'm Jacildo Furtado</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+### Hi there 👋<h1 align="center">Hi 👋, I'm Jacildo Furtado | Oi 👋, eu sou Jacildo Furtado</h1>
+<h3 align="center">A passionate frontend developer from Brazil | Sou um jovem e apaixonado desenvolvedor do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacildofurtado&label=Profile%20views&color=0e75b6&style=flat" alt="jacildofurtado" /> </p>
 
-- 📫 How to reach me **jacildofurtado@gmail.com**
+- 📫 How to reach me | Entre em contato comigo **jacildofurtado@gmail.com**
 
 <p align="left">
 </p>
